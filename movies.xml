@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movies>
+
+    <movie>
+        <movieTitle>Inception</movieTitle>
+        <profit>829.89</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2010-07-16</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Dune</movieTitle>
+        <profit>435.00</profit>
+        <movieGenre>Sci-Fi</movieGenre>
+        <releaseDate>2021-10-22</releaseDate>
+        <platform>HBO Max</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Avatar</movieTitle>
+        <profit>2800.00</profit>
+        <movieGenre>Action</movieGenre>
+        <releaseDate>2009-12-10</releaseDate>
+        <platform>Cinema</platform>
+    </movie>
+
+    <movie>
+        <movieTitle>Barbie</movieTitle>
+        <profit>1440.00</profit>
+        <movieGenre>Comedy</movieGenre>
+        <releaseDate>2023-07-21</releaseDate>
+        <platform>Netflix</platform>
+    </movie>
+
+</movies>
